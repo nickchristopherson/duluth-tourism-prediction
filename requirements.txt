@@ -1,0 +1,46 @@
+# Core Data Science Libraries
+pandas==2.3.0
+numpy==2.3.1
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning & Model Persistence
+joblib==1.4.2
+
+# Data Collection & APIs
+requests==2.32.4
+pytrends==4.9.2
+lxml==5.4.0
+
+# Interactive Visualizations
+plotly==5.20.0
+
+# Jupyter Notebooks
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
+
+# Web Dashboard (if using Streamlit alternative)
+# streamlit==1.36.0  # Uncomment if building Streamlit version
+
+# Development & Code Quality
+black==24.4.2
+flake8==7.1.0
+pytest==8.3.2
+
+# Documentation
+markdown==3.6
+
+# Optional: Advanced ML
+# xgboost==2.1.0      # Uncomment for gradient boosting models
+# lightgbm==4.4.0     # Uncomment for additional ML algorithms
+
+# System Dependencies
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+urllib3==2.5.0
+certifi==2025.6.15
+charset-normalizer==3.4.2
+idna==3.10
