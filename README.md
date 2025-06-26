@@ -216,10 +216,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
-- Portfolio: [your-portfolio-site.com]
-- LinkedIn: [linkedin.com/in/yourname]
-- Email: [your.email@domain.com]
+**Nick Christopherson**
+- LinkedIn: linkedin.com/nickchristopherson
+- Email: chri5316@d.umn.edu
 
 ## 🙏 Acknowledgments
 
