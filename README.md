@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Nick Christopherson**
-- LinkedIn: linkedin.com/nickchristopherson
+- LinkedIn: linkedin.com/in/nickchristopherson/
 - Email: chri5316@d.umn.edu
 
 ## 🙏 Acknowledgments
